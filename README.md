@@ -1,4 +1,5 @@
 # Light and Dark
+- Codecool Project
 
 ## Story
 
@@ -20,4 +21,6 @@ Another "standard" client email in your freelancing career – time to get to wo
 - DOM manipulation
 - Bootstrap responsive classes
 
-simple old project to learn how to implement dark-theme
+simple old project to learn how to implement dark-theme. Checik it out!
+
+https://filipkoniuszewski.github.io/dark-theme/
